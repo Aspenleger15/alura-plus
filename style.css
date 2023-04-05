@@ -1,0 +1,21 @@
+:root{
+    --branco-principal: #ffffff;
+    --preto-fundo: #00030c;
+    --azul-botão: #167BF7;
+    --cinza-escrita:#c0c0c0;
+}
+
+body{
+    background-color: var(--preto-fundo);
+}
+
+
+
+
+
+
+
+
+
+
+

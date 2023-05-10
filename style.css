@@ -3,11 +3,16 @@
     --preto-fundo: #00030c;
     --azul-botao: #167BF7;
     --cinza-escrita:#c0c0c0;
+    --fonte-principal: 'inter';
 }
 
 body{
     background-color: var(--preto-fundo);
     color: var(--branco-principal)
+    font-family: var(--fonte-principal);
+    font-size:16px;
+    
+
 }
 *{
     margin: 0;
